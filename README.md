@@ -31,3 +31,11 @@ Download this project and run on Netbeans. Install also jcalendar as we use this
 2. IZZATUL ARISYA BINTI MUZAMIR 
 3. NADJUA BINTI ZAIN AZNI 
 
+### REFERENCES
+1. How to set a JFrame Fullscreen [Youtube] (https://www.youtube.com/watch?v=KDJar8mml0o) 
+2. How to set Jframe center in netbeans [Youtube] (https://www.youtube.com/watch?v=eykHhoWsnys)
+3. How to insert background image in jframe netbeans [Youtube] (https://www.youtube.com/watch?v=eykHhoWsnys) 
+4. How to send value from one frame to another frame in netbeans [Youtube] (https://www.youtube.com/watch?v=qOoWDcJ1Ar8)
+5. Java prog#140 How to make textfield that only accept numbers [Youtube] (https://youtu.be/9B5ZgItFxNA)
+6. Java Display JCalendar Date in TextField in Java Swing/SWT/AWT [Youtube] (https://youtu.be/-ufb4S_SjnE)
+7. JDateChooser How to Get Date in JTextField in Java Swing [Youtube] (https://youtu.be/2WFNz6juV08)
