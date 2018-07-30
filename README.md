@@ -27,7 +27,7 @@ Download this project and run on Netbeans. Install also jcalendar as we use this
 <img width="300" alt="8" src="https://user-images.githubusercontent.com/26530955/43410945-37d2fd46-945b-11e8-98f1-b3a074654f6c.PNG">
 
 #### GROUP MEMBERS
-1. FATHIAH HUSNA BINTI FIRDAUS 
-2. IZZATUL ARISYA BINTI MUZAMIR 
-3. NADJUA BINTI ZAIN AZNI
+1. FATHIAH HUSNA BINTI FIRDAUS @FathiahHusna
+2. IZZATUL ARISYA BINTI MUZAMIR @izzatularisyaaa
+3. NADJUA BINTI ZAIN AZNI @nadjuazain
 
