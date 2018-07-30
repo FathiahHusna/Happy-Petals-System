@@ -31,7 +31,7 @@ Download this project and run on Netbeans. Install also jcalendar as we use this
 2. IZZATUL ARISYA BINTI MUZAMIR 
 3. NADJUA BINTI ZAIN AZNI 
 
-### REFERENCES
+#### REFERENCES
 1. How to set a JFrame Fullscreen [Youtube] (https://www.youtube.com/watch?v=KDJar8mml0o) 
 2. How to set Jframe center in netbeans [Youtube] (https://www.youtube.com/watch?v=eykHhoWsnys)
 3. How to insert background image in jframe netbeans [Youtube] (https://www.youtube.com/watch?v=eykHhoWsnys) 
