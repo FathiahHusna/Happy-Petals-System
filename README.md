@@ -41,4 +41,4 @@ Download this project and run on Netbeans. Install also jcalendar as we use this
 7. JDateChooser How to Get Date in JTextField in Java Swing [Youtube] (https://youtu.be/2WFNz6juV08)
 
 #### LICENSE
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the **[License file]** (https://github.com/FathiahHusna/Happy-Petals-System/blob/master/LICENSE.md) for details
