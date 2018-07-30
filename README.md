@@ -9,6 +9,7 @@ Download this project and run on Netbeans. Install also jcalendar as we use this
 
 ### HOW TO USE
 1. Click menu to shop by category
+<img height="380" width="381" src="https://user-images.githubusercontent.com/26530955/43410439-733310a8-9459-11e8-984c-1fb8c3dc8c0c.PNG">
 2. Pick your favourties to add to wishlist
 3. Pick from your wishlist to add to cart
 4. Fill in the quantity, choose for walk-in/delivery
@@ -17,5 +18,6 @@ Download this project and run on Netbeans. Install also jcalendar as we use this
 
 #### GROUP MEMBERS
 1. FATHIAH HUSNA BINTI FIRDAUS 
-2. IZZATUL ARISYA BINTI MUZAMIR @izzatularisyaaa
+2. IZZATUL ARISYA BINTI MUZAMIR 
 3. NADJUA BINTI ZAIN AZNI
+
