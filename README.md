@@ -39,3 +39,6 @@ Download this project and run on Netbeans. Install also jcalendar as we use this
 5. Java prog#140 How to make textfield that only accept numbers [Youtube] (https://youtu.be/9B5ZgItFxNA)
 6. Java Display JCalendar Date in TextField in Java Swing/SWT/AWT [Youtube] (https://youtu.be/-ufb4S_SjnE)
 7. JDateChooser How to Get Date in JTextField in Java Swing [Youtube] (https://youtu.be/2WFNz6juV08)
+
+#### LICENSE
+This project is licensed under the MIT License - see the LICENSE.md file for details
