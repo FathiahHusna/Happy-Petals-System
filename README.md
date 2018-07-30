@@ -14,3 +14,8 @@ Download this project and run on Netbeans. Install also jcalendar as we use this
 4. Fill in the quantity, choose for walk-in/delivery
 5. Fill in the form
 6. Receipt will be displayed
+
+#### GROUP MEMBERS
+1. FATHIAH HUSNA BINTI FIRDAUS 
+2. IZZATUL ARISYA BINTI MUZAMIR @izzatularisyaaa
+3. NADJUA BINTI ZAIN AZNI
