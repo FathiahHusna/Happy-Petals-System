@@ -9,4 +9,4 @@ Download this project and run on Netbeans. Install also jcalendar as we use this
 
 ### HOW TO USE
 1. Click menu to shop by category
-![Image of Menu](https://octodex.github.com/images/yaktocat.png)
+
